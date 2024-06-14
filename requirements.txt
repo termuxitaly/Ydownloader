@@ -1,0 +1,4 @@
+pytube3
+pydub
+tqdm
+termcolor
